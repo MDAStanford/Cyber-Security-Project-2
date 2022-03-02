@@ -1,3 +1,20 @@
+
+
+CAPSTONE ENGAGEMENT: ASSESSMENT, ANALYSYS AND HARDENING OF A VULNERABLE SYSTEM
+This project provides a network topology schematics, Red Team tactics vs Blue Team defense tools.
+As vulnerabilities were detected, system hardening methods were implemented.
+
+This report will provide an overview of creating and defending virtual ecosystems.
+
+
+
+
+
+
+
+
+
+
 # Cyber-Security-Project-2
 
 ![image](https://user-images.githubusercontent.com/99157857/154816965-8b6d8b56-1db6-4c5c-9f3d-af170f377110.png)
